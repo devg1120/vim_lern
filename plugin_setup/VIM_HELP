@@ -1,0 +1,11 @@
+
+show color number
+:hi
+
+
+serch hilight color disable
+:noh
+
+
+
+:colorscheme ^d

@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/'
+let g:netrw_dirhist_5='/Users'
+let g:netrw_dirhist_4='/Users/nishigusa'
+let g:netrw_dirhist_3='/Users/nishigusa/Dev'
+let g:netrw_dirhist_2='/Users/nishigusa/Dev/rxjs'
+let g:netrw_dirhist_1='/Users/nishigusa/Dev/rxjs/rxjs_ts_test/promise'
+let g:netrw_dirhist_0='/Users/nishigusa/Dev/rxjs/rxjs_ts_test'
+let g:netrw_dirhist_9='/Users/nishigusa/Dev/rxjs'
+let g:netrw_dirhist_8='/Users/nishigusa/Dev/rxjs/rxjs_ts_test'
+let g:netrw_dirhist_7='/Users/nishigusa/Dev/rxjs/rxjs_ts_test/promise'
