@@ -1,5 +1,6 @@
 # move & edit
 
+```
   h
   j
   k
@@ -24,7 +25,7 @@
   dd      // delete line
   
   /       // serch
-
+```
 
 # yank & paste
 
