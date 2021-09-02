@@ -23,6 +23,20 @@ NeoBundle 'scrooloose/nerdtree'
 NeoBundle 'fholgado/minibufexpl.vim'
 NeoBundle 'junegunn/fzf', { 'do': { -> fzf#install() } }
 NeoBundle 'junegunn/fzf.vim'
+NeoBundle 'reireias/vim-cheatsheet'
+
+```
+
+# Plugin fzf
+
+```
+  :Files
+```
+
+# Plugin cheatsheet
+
+```
+  :Cheat
 ```
 
 # move & edit
