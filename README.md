@@ -1,3 +1,16 @@
+# vim reference
+
+---
+
+# vim nosetting
+
+```
+   vim -u NONE -N $*
+
+          $*= filename list
+```
+
+
 # move & edit
 
 ```
