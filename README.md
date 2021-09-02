@@ -10,6 +10,20 @@
           $*= filename list
 ```
 
+# vim logging
+
+```
+   vim -V1myLog
+```
+
+# vim plugin
+
+```
+NeoBundle 'scrooloose/nerdtree'
+NeoBundle 'fholgado/minibufexpl.vim'
+NeoBundle 'junegunn/fzf', { 'do': { -> fzf#install() } }
+NeoBundle 'junegunn/fzf.vim'
+```
 
 # move & edit
 

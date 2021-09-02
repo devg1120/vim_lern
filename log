@@ -1,0 +1,1894 @@
+
+could not source "$VIMRUNTIME/macmap.vim"
+not found in 'packpath': "pack/*/start/*"
+not found in 'packpath': "pack/*/start/*"
+not found in 'runtimepath': "plugin/**/*.vim"
+Reading viminfo file "/Users/nishigusa/.viminfo" info oldfiles
+"test" [New File]
+Reading viminfo file "/Users/nishigusa/.viminfo" marks
+
+Reading viminfo file "/Users/nishigusa/.viminfo" marks
+Error detected while processing BufDelete Autocommands for "*":
+E716: Key not present in Dictionary: 3
+not found in 'runtimepath': "ftplugin/minibufexpl.vim ftplugin/minibufexpl_*.vim ftplugin/minibufexpl/*.vim"
+not found in 'runtimepath': "indent/minibufexpl.vim"
+not found in 'runtimepath': "syntax/minibufexpl.vim syntax/minibufexpl/*.vim"
+Error detected while processing function <SNR>41_BufDeleteHandler[21]..<SNR>41_AutoUpdate[54]..<SNR>41_StopExplorer[15]..<SNR>41_SwitchWindow:
+line   24:
+E994: Not allowed in a popup window
+
+Writing viminfo file "/Users/nishigusa/.viminfo"
+chdir(/usr/share/vim)
+fchdir() to previous dir
+sourcing "$VIM/vimrc"
+finished sourcing $VIM/vimrc
+chdir(/usr/share/vim/vim82)
+fchdir() to previous dir
+could not source "$VIMRUNTIME/macmap.vim"
+chdir(/Users/nishigusa)
+fchdir() to previous dir
+sourcing "$HOME/.vimrc"
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/autoload)
+fchdir() to previous dir
+line 8: sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle.vim"
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle)
+fchdir() to previous dir
+line 41: sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/util.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/util.vim
+continuing in /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle.vim
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle.vim
+continuing in /Users/nishigusa/.vimrc
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle)
+fchdir() to previous dir
+line 23: sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/init.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/init.vim
+continuing in neobundle#begin
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle)
+fchdir() to previous dir
+line 35: sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/config.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/config.vim
+continuing in neobundle#init#_rc
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle)
+fchdir() to previous dir
+line 36: sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/autoload.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/autoload.vim
+continuing in neobundle#init#_rc
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle)
+fchdir() to previous dir
+line 9: sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/parser.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/parser.vim
+continuing in /Users/nishigusa/.vimrc
+Executing FuncUndefined Autocommands for "*"
+autocommand call s:on_function()
+
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/types)
+fchdir() to previous dir
+line 5: sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/types/git.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/types/git.vim
+continuing in neobundle#config#get_types
+chdir(/usr/share/vim/vim82)
+fchdir() to previous dir
+line 24: sourcing "/usr/share/vim/vim82/filetype.vim"
+chdir(/Users/nishigusa/.vim/bundle/.neobundle/ftdetect)
+fchdir() to previous dir
+line 2207: sourcing "/Users/nishigusa/.vim/bundle/.neobundle/ftdetect/ftdetect.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/.neobundle/ftdetect/ftdetect.vim
+continuing in /usr/share/vim/vim82/filetype.vim
+finished sourcing /usr/share/vim/vim82/filetype.vim
+continuing in /Users/nishigusa/.vimrc
+chdir(/usr/share/vim/vim82)
+fchdir() to previous dir
+line 24: sourcing "/usr/share/vim/vim82/ftplugin.vim"
+finished sourcing /usr/share/vim/vim82/ftplugin.vim
+continuing in /Users/nishigusa/.vimrc
+chdir(/usr/share/vim/vim82)
+fchdir() to previous dir
+line 24: sourcing "/usr/share/vim/vim82/indent.vim"
+finished sourcing /usr/share/vim/vim82/indent.vim
+continuing in /Users/nishigusa/.vimrc
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle)
+fchdir() to previous dir
+line 25: sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/commands.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/commands.vim
+continuing in /Users/nishigusa/.vimrc
+Executing FuncUndefined Autocommands for "*"
+autocommand call s:on_function()
+
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle)
+fchdir() to previous dir
+line 1: sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/installer.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/installer.vim
+continuing in neobundle#commands#check
+chdir(/Users/nishigusa/.vim/bundle)
+fchdir() to previous dir
+line 3: sourcing "/Users/nishigusa/.vim/bundle/NeoBundle.lock"
+finished sourcing /Users/nishigusa/.vim/bundle/NeoBundle.lock
+continuing in <SNR>15_source_lockfile
+chdir(/usr/share/vim/vim82/syntax)
+fchdir() to previous dir
+line 39: sourcing "/usr/share/vim/vim82/syntax/syntax.vim"
+chdir(/usr/share/vim/vim82/syntax)
+fchdir() to previous dir
+line 19: sourcing "/usr/share/vim/vim82/syntax/synload.vim"
+chdir(/usr/share/vim/vim82/syntax)
+fchdir() to previous dir
+line 21: sourcing "/usr/share/vim/vim82/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim82/syntax/syncolor.vim
+continuing in /usr/share/vim/vim82/syntax/synload.vim
+finished sourcing /usr/share/vim/vim82/syntax/synload.vim
+continuing in /usr/share/vim/vim82/syntax/syntax.vim
+finished sourcing /usr/share/vim/vim82/syntax/syntax.vim
+continuing in /Users/nishigusa/.vimrc
+chdir(/Users/nishigusa/.vim/colors)
+fchdir() to previous dir
+line 56: sourcing "/Users/nishigusa/.vim/colors/gusa.vim"
+chdir(/usr/share/vim/vim82/syntax)
+fchdir() to previous dir
+line 7: sourcing "/usr/share/vim/vim82/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim82/syntax/syncolor.vim
+continuing in /Users/nishigusa/.vim/colors/gusa.vim
+chdir(/usr/share/vim/vim82/syntax)
+fchdir() to previous dir
+line 8: sourcing "/usr/share/vim/vim82/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim82/syntax/syncolor.vim
+continuing in /Users/nishigusa/.vim/colors/gusa.vim
+chdir(/usr/share/vim/vim82/syntax)
+fchdir() to previous dir
+line 10: sourcing "/usr/share/vim/vim82/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim82/syntax/syncolor.vim
+continuing in /Users/nishigusa/.vim/colors/gusa.vim
+finished sourcing /Users/nishigusa/.vim/colors/gusa.vim
+continuing in /Users/nishigusa/.vimrc
+finished sourcing $HOME/.vimrc
+not found in 'packpath': "pack/*/start/*"
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/plugin)
+fchdir() to previous dir
+sourcing "/Users/nishigusa/.vim/bundle/nerdtree/plugin/NERD_tree.vim"
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/autoload)
+fchdir() to previous dir
+line 56: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/autoload/nerdtree.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/autoload/nerdtree.vim
+continuing in /Users/nishigusa/.vim/bundle/nerdtree/plugin/NERD_tree.vim
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 1: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/path.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/path.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 2: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/menu_controller.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/menu_controller.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 3: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/menu_item.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/menu_item.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 4: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/key_map.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/key_map.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 5: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/bookmark.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/bookmark.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 6: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/tree_file_node.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/tree_file_node.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 7: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/tree_dir_node.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/tree_dir_node.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 8: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/opener.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/opener.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 9: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/creator.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/creator.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 10: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/flag_set.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/flag_set.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 11: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/nerdtree.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/nerdtree.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 12: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/ui.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/ui.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 13: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/event.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/event.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 14: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/notifier.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/notifier.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/autoload/nerdtree)
+fchdir() to previous dir
+line 143: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/autoload/nerdtree/ui_glue.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/autoload/nerdtree/ui_glue.vim
+continuing in /Users/nishigusa/.vim/bundle/nerdtree/plugin/NERD_tree.vim
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/nerdtree_plugin)
+fchdir() to previous dir
+line 5: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/nerdtree_plugin/exec_menuitem.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/nerdtree_plugin/exec_menuitem.vim
+continuing in nerdtree#postSourceActions
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/nerdtree_plugin)
+fchdir() to previous dir
+line 5: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/nerdtree_plugin/fs_menu.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/nerdtree_plugin/fs_menu.vim
+continuing in nerdtree#postSourceActions
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/nerdtree_plugin)
+fchdir() to previous dir
+line 5: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/nerdtree_plugin/vcs.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/nerdtree_plugin/vcs.vim
+continuing in nerdtree#postSourceActions
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/plugin/NERD_tree.vim
+chdir(/Users/nishigusa/.vim/bundle/minibufexpl.vim/plugin)
+fchdir() to previous dir
+sourcing "/Users/nishigusa/.vim/bundle/minibufexpl.vim/plugin/minibufexpl.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/minibufexpl.vim/plugin/minibufexpl.vim
+chdir(/Users/nishigusa/.vim/bundle/fzf/plugin)
+fchdir() to previous dir
+sourcing "/Users/nishigusa/.vim/bundle/fzf/plugin/fzf.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/fzf/plugin/fzf.vim
+chdir(/Users/nishigusa/.vim/bundle/fzf.vim/plugin)
+fchdir() to previous dir
+sourcing "/Users/nishigusa/.vim/bundle/fzf.vim/plugin/fzf.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/fzf.vim/plugin/fzf.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/getscriptPlugin.vim"
+finished sourcing /usr/share/vim/vim82/plugin/getscriptPlugin.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/gzip.vim"
+finished sourcing /usr/share/vim/vim82/plugin/gzip.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/logiPat.vim"
+finished sourcing /usr/share/vim/vim82/plugin/logiPat.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/manpager.vim"
+finished sourcing /usr/share/vim/vim82/plugin/manpager.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/matchparen.vim"
+finished sourcing /usr/share/vim/vim82/plugin/matchparen.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/netrwPlugin.vim"
+finished sourcing /usr/share/vim/vim82/plugin/netrwPlugin.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/rrhelper.vim"
+finished sourcing /usr/share/vim/vim82/plugin/rrhelper.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/spellfile.vim"
+finished sourcing /usr/share/vim/vim82/plugin/spellfile.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/tarPlugin.vim"
+finished sourcing /usr/share/vim/vim82/plugin/tarPlugin.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/tohtml.vim"
+finished sourcing /usr/share/vim/vim82/plugin/tohtml.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/vimballPlugin.vim"
+finished sourcing /usr/share/vim/vim82/plugin/vimballPlugin.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/zipPlugin.vim"
+finished sourcing /usr/share/vim/vim82/plugin/zipPlugin.vim
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/plugin)
+fchdir() to previous dir
+sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/plugin/neobundle.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/plugin/neobundle.vim
+not found in 'packpath': "pack/*/start/*"
+not found in 'runtimepath': "plugin/**/*.vim"
+Reading viminfo file "/Users/nishigusa/.viminfo" info oldfiles
+"test" [New File]
+Reading viminfo file "/Users/nishigusa/.viminfo" marks
+Executing BufNewFile Autocommands for "*"
+autocommand call s:on_path(expand('<afile>'), 'BufNewFile')
+
+Executing BufNewFile Autocommands for "*"
+autocommand if !did_filetype() && expand("<amatch>") !~ g:ft_ignore_pat | runtime! scripts.vim | endif
+
+chdir(/usr/share/vim/vim82)
+fchdir() to previous dir
+line 0: sourcing "/usr/share/vim/vim82/scripts.vim"
+finished sourcing /usr/share/vim/vim82/scripts.vim
+continuing in BufNewFile Autocommands for "*"
+Executing BufNewFile Autocommands for "*"
+autocommand if !did_filetype() && expand("<amatch>") !~ g:ft_ignore_pat    && (getline(1) =~ '^#' || getline(2) =~ '^#' || getline(3) =~ '^#'^I|| getline(4) =~ '^#' || getline(5) =~ '^#') |   setf FALLBACK conf | endif
+
+Executing BufWinEnter Autocommands for "*"
+autocommand call s:on_path(expand('<afile>'), 'BufWinEnter')
+
+Executing BufWinEnter Autocommands for "*"
+autocommand let g:fzf#vim#buffers[bufnr('')] = reltimefloat(reltime())
+
+Executing BufEnter Autocommands for "*"
+autocommand call s:on_path(expand('<afile>'), 'BufEnter')
+
+Executing BufEnter Autocommands for "*"
+autocommand call nerdtree#checkForBrowse(expand('<amatch>'))
+
+Executing BufEnter Autocommands for "*"
+autocommand call <SID>BufEnterHandler()
+
+Executing BufEnter Autocommands for "*"
+autocommand sil call s:LocalBrowse(expand("<amatch>"))
+
+Executing VimEnter Autocommands for "*"
+autocommand call s:on_vim_enter()
+
+Executing VimEnter Autocommands for "*"
+autocommand call s:on_path(expand('<afile>'), 'VimEnter')
+
+Executing VimEnter Autocommands for "*"
+autocommand if argc() == 0 && !exists("s:std_in") | NERDTree | endif
+
+Executing VimEnter Autocommands for "*"
+autocommand silent! autocmd! FileExplorer
+
+autocommand call nerdtree#checkForBrowse(expand('<amatch>'))
+
+Executing VimEnter Autocommands for "*"
+autocommand call <SID>VimEnterHandler()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+
+chdir(/Users/nishigusa/.vim/bundle/fzf.vim/autoload/fzf)
+fchdir() to previous dir
+sourcing "/Users/nishigusa/.vim/bundle/fzf.vim/autoload/fzf/vim.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/fzf.vim/autoload/fzf/vim.vim
+Calling shell to execute: "(/Users/nishigusa/.vim/bundle/fzf/bin/fzf --version)>/var/folders/cs/28_f6mf15wx007rxgww8wkv80000gn/T/vEil5BJ/0 2>&1"
+Calling shell to execute: "(/Users/nishigusa/.vim/bundle/fzf/bin/fzf --version)>/var/folders/cs/28_f6mf15wx007rxgww8wkv80000gn/T/vEil5BJ/2 2>&1"
+                                                                                                                                                /Users/nishigusa/vim_lern
+Executing BufNew Autocommands for "*"
+autocommand call s:on_path(expand('<afile>'), 'BufNew')
+
+Executing BufAdd Autocommands for "*"
+autocommand call s:on_path(expand('<afile>'), 'BufCreate')
+
+Executing BufAdd Autocommands for "*"
+autocommand call <SID>BufAddHandler()
+
+chdir(/Users/nishigusa/vim_lern)
+chdir(/Users/nishigusa/vim_lern)
+fchdir() to previous dir
+Reading viminfo file "/Users/nishigusa/.viminfo" marks
+Executing BufDelete Autocommands for "*"
+autocommand call <SID>BufDeleteHandler()
+
+Executing BufDelete Autocommands for "*"
+autocommand silent! call remove(g:fzf#vim#buffers, expand('<abuf>'))
+
+Error detected while processing BufDelete Autocommands for "*":
+E716: Key not present in Dictionary: 3
+chdir(/Users/nishigusa/vim_lern)
+chdir(/Users/nishigusa/vim_lern)
+Executing FileType Autocommands for "*"
+autocommand call s:on_filetype()
+
+Executing FileType Autocommands for "*"
+autocommand call s:LoadFTPlugin()
+
+not found in 'runtimepath': "ftplugin/minibufexpl.vim ftplugin/minibufexpl_*.vim ftplugin/minibufexpl/*.vim"
+Executing FileType Autocommands for "*"
+autocommand call s:LoadIndent()
+
+not found in 'runtimepath': "indent/minibufexpl.vim"
+Executing FileType Autocommands for "*"
+autocommand exe "set syntax=" . expand("<amatch>")
+
+Executing Syntax Autocommands for "*"
+autocommand call s:SynSet()
+
+not found in 'runtimepath': "syntax/minibufexpl.vim syntax/minibufexpl/*.vim"
+Executing FileType Autocommands for "minibufexpl"
+autocommand call <SID>RenderSyntax()
+
+chdir(/Users/nishigusa/vim_lern)
+Executing TerminalOpen Autocommands for "*"
+autocommand call s:popup_create(str2nr(expand('<abuf>')))
+
+chdir(/Users/nishigusa/vim_lern)
+Executing BufDelete Autocommands for "*"
+autocommand call <SID>BufDeleteHandler()
+
+Error detected while processing function <SNR>41_BufDeleteHandler[21]..<SNR>41_AutoUpdate[54]..<SNR>41_StopExplorer[15]..<SNR>41_SwitchWindow:
+line   24:
+E994: Not allowed in a popup window
+chdir(/Users/nishigusa/vim_lern)
+Executing WinEnter Autocommands for "*"
+autocommand call s:dopopd()
+
+/Users/nishigusa/vim_lern
+Executing WinEnter Autocommands for "*"
+autocommand let g:fzf#vim#buffers[bufnr('')] = reltimefloat(reltime())
+
+Executing WinEnter Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing BufEnter Autocommands for "*"
+autocommand call s:on_path(expand('<afile>'), 'BufEnter')
+
+Executing BufEnter Autocommands for "*"
+autocommand call nerdtree#checkForBrowse(expand('<amatch>'))
+
+Executing BufEnter Autocommands for "*"
+autocommand call <SID>BufEnterHandler()
+
+/Users/nishigusa/vim_lern
+/Users/nishigusa/vim_lern
+
+Executing QuitPre Autocommands for "*"
+autocommand if <SID>NextNormalWindow() == -1 | call <SID>StopExplorer(0) | endif
+
+chdir(/Users/nishigusa/vim_lern)
+chdir(/Users/nishigusa/vim_lern)
+Writing viminfo file "/Users/nishigusa/.viminfo"
+chdir(/usr/share/vim)
+fchdir() to previous dir
+sourcing "$VIM/vimrc"
+finished sourcing $VIM/vimrc
+chdir(/usr/share/vim/vim82)
+fchdir() to previous dir
+could not source "$VIMRUNTIME/macmap.vim"
+chdir(/Users/nishigusa)
+fchdir() to previous dir
+sourcing "$HOME/.vimrc"
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/autoload)
+fchdir() to previous dir
+line 8: sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle.vim"
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle)
+fchdir() to previous dir
+line 41: sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/util.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/util.vim
+continuing in /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle.vim
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle.vim
+continuing in /Users/nishigusa/.vimrc
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle)
+fchdir() to previous dir
+line 23: sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/init.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/init.vim
+continuing in neobundle#begin
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle)
+fchdir() to previous dir
+line 35: sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/config.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/config.vim
+continuing in neobundle#init#_rc
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle)
+fchdir() to previous dir
+line 36: sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/autoload.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/autoload.vim
+continuing in neobundle#init#_rc
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle)
+fchdir() to previous dir
+line 9: sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/parser.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/parser.vim
+continuing in /Users/nishigusa/.vimrc
+Executing FuncUndefined Autocommands for "*"
+autocommand call s:on_function()
+
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/types)
+fchdir() to previous dir
+line 5: sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/types/git.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/types/git.vim
+continuing in neobundle#config#get_types
+chdir(/usr/share/vim/vim82)
+fchdir() to previous dir
+line 24: sourcing "/usr/share/vim/vim82/filetype.vim"
+chdir(/Users/nishigusa/.vim/bundle/.neobundle/ftdetect)
+fchdir() to previous dir
+line 2207: sourcing "/Users/nishigusa/.vim/bundle/.neobundle/ftdetect/ftdetect.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/.neobundle/ftdetect/ftdetect.vim
+continuing in /usr/share/vim/vim82/filetype.vim
+finished sourcing /usr/share/vim/vim82/filetype.vim
+continuing in /Users/nishigusa/.vimrc
+chdir(/usr/share/vim/vim82)
+fchdir() to previous dir
+line 24: sourcing "/usr/share/vim/vim82/ftplugin.vim"
+finished sourcing /usr/share/vim/vim82/ftplugin.vim
+continuing in /Users/nishigusa/.vimrc
+chdir(/usr/share/vim/vim82)
+fchdir() to previous dir
+line 24: sourcing "/usr/share/vim/vim82/indent.vim"
+finished sourcing /usr/share/vim/vim82/indent.vim
+continuing in /Users/nishigusa/.vimrc
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle)
+fchdir() to previous dir
+line 25: sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/commands.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/commands.vim
+continuing in /Users/nishigusa/.vimrc
+Executing FuncUndefined Autocommands for "*"
+autocommand call s:on_function()
+
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle)
+fchdir() to previous dir
+line 1: sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/installer.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/installer.vim
+continuing in neobundle#commands#check
+chdir(/Users/nishigusa/.vim/bundle)
+fchdir() to previous dir
+line 3: sourcing "/Users/nishigusa/.vim/bundle/NeoBundle.lock"
+finished sourcing /Users/nishigusa/.vim/bundle/NeoBundle.lock
+continuing in <SNR>15_source_lockfile
+chdir(/usr/share/vim/vim82/syntax)
+fchdir() to previous dir
+line 39: sourcing "/usr/share/vim/vim82/syntax/syntax.vim"
+chdir(/usr/share/vim/vim82/syntax)
+fchdir() to previous dir
+line 19: sourcing "/usr/share/vim/vim82/syntax/synload.vim"
+chdir(/usr/share/vim/vim82/syntax)
+fchdir() to previous dir
+line 21: sourcing "/usr/share/vim/vim82/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim82/syntax/syncolor.vim
+continuing in /usr/share/vim/vim82/syntax/synload.vim
+finished sourcing /usr/share/vim/vim82/syntax/synload.vim
+continuing in /usr/share/vim/vim82/syntax/syntax.vim
+finished sourcing /usr/share/vim/vim82/syntax/syntax.vim
+continuing in /Users/nishigusa/.vimrc
+chdir(/Users/nishigusa/.vim/colors)
+fchdir() to previous dir
+line 56: sourcing "/Users/nishigusa/.vim/colors/gusa.vim"
+chdir(/usr/share/vim/vim82/syntax)
+fchdir() to previous dir
+line 7: sourcing "/usr/share/vim/vim82/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim82/syntax/syncolor.vim
+continuing in /Users/nishigusa/.vim/colors/gusa.vim
+chdir(/usr/share/vim/vim82/syntax)
+fchdir() to previous dir
+line 8: sourcing "/usr/share/vim/vim82/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim82/syntax/syncolor.vim
+continuing in /Users/nishigusa/.vim/colors/gusa.vim
+chdir(/usr/share/vim/vim82/syntax)
+fchdir() to previous dir
+line 10: sourcing "/usr/share/vim/vim82/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim82/syntax/syncolor.vim
+continuing in /Users/nishigusa/.vim/colors/gusa.vim
+finished sourcing /Users/nishigusa/.vim/colors/gusa.vim
+continuing in /Users/nishigusa/.vimrc
+finished sourcing $HOME/.vimrc
+not found in 'packpath': "pack/*/start/*"
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/plugin)
+fchdir() to previous dir
+sourcing "/Users/nishigusa/.vim/bundle/nerdtree/plugin/NERD_tree.vim"
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/autoload)
+fchdir() to previous dir
+line 56: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/autoload/nerdtree.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/autoload/nerdtree.vim
+continuing in /Users/nishigusa/.vim/bundle/nerdtree/plugin/NERD_tree.vim
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 1: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/path.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/path.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 2: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/menu_controller.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/menu_controller.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 3: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/menu_item.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/menu_item.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 4: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/key_map.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/key_map.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 5: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/bookmark.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/bookmark.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 6: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/tree_file_node.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/tree_file_node.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 7: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/tree_dir_node.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/tree_dir_node.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 8: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/opener.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/opener.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 9: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/creator.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/creator.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 10: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/flag_set.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/flag_set.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 11: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/nerdtree.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/nerdtree.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 12: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/ui.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/ui.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 13: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/event.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/event.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 14: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/notifier.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/notifier.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/autoload/nerdtree)
+fchdir() to previous dir
+line 143: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/autoload/nerdtree/ui_glue.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/autoload/nerdtree/ui_glue.vim
+continuing in /Users/nishigusa/.vim/bundle/nerdtree/plugin/NERD_tree.vim
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/nerdtree_plugin)
+fchdir() to previous dir
+line 5: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/nerdtree_plugin/exec_menuitem.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/nerdtree_plugin/exec_menuitem.vim
+continuing in nerdtree#postSourceActions
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/nerdtree_plugin)
+fchdir() to previous dir
+line 5: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/nerdtree_plugin/fs_menu.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/nerdtree_plugin/fs_menu.vim
+continuing in nerdtree#postSourceActions
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/nerdtree_plugin)
+fchdir() to previous dir
+line 5: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/nerdtree_plugin/vcs.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/nerdtree_plugin/vcs.vim
+continuing in nerdtree#postSourceActions
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/plugin/NERD_tree.vim
+chdir(/Users/nishigusa/.vim/bundle/minibufexpl.vim/plugin)
+fchdir() to previous dir
+sourcing "/Users/nishigusa/.vim/bundle/minibufexpl.vim/plugin/minibufexpl.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/minibufexpl.vim/plugin/minibufexpl.vim
+chdir(/Users/nishigusa/.vim/bundle/fzf/plugin)
+fchdir() to previous dir
+sourcing "/Users/nishigusa/.vim/bundle/fzf/plugin/fzf.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/fzf/plugin/fzf.vim
+chdir(/Users/nishigusa/.vim/bundle/fzf.vim/plugin)
+fchdir() to previous dir
+sourcing "/Users/nishigusa/.vim/bundle/fzf.vim/plugin/fzf.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/fzf.vim/plugin/fzf.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/getscriptPlugin.vim"
+finished sourcing /usr/share/vim/vim82/plugin/getscriptPlugin.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/gzip.vim"
+finished sourcing /usr/share/vim/vim82/plugin/gzip.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/logiPat.vim"
+finished sourcing /usr/share/vim/vim82/plugin/logiPat.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/manpager.vim"
+finished sourcing /usr/share/vim/vim82/plugin/manpager.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/matchparen.vim"
+finished sourcing /usr/share/vim/vim82/plugin/matchparen.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/netrwPlugin.vim"
+finished sourcing /usr/share/vim/vim82/plugin/netrwPlugin.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/rrhelper.vim"
+finished sourcing /usr/share/vim/vim82/plugin/rrhelper.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/spellfile.vim"
+finished sourcing /usr/share/vim/vim82/plugin/spellfile.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/tarPlugin.vim"
+finished sourcing /usr/share/vim/vim82/plugin/tarPlugin.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/tohtml.vim"
+finished sourcing /usr/share/vim/vim82/plugin/tohtml.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/vimballPlugin.vim"
+finished sourcing /usr/share/vim/vim82/plugin/vimballPlugin.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/zipPlugin.vim"
+finished sourcing /usr/share/vim/vim82/plugin/zipPlugin.vim
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/plugin)
+fchdir() to previous dir
+sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/plugin/neobundle.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/plugin/neobundle.vim
+not found in 'packpath': "pack/*/start/*"
+not found in 'runtimepath': "plugin/**/*.vim"
+Reading viminfo file "/Users/nishigusa/.viminfo" info oldfiles
+"test" [New File]
+Reading viminfo file "/Users/nishigusa/.viminfo" marks
+Executing BufNewFile Autocommands for "*"
+autocommand call s:on_path(expand('<afile>'), 'BufNewFile')
+
+Executing BufNewFile Autocommands for "*"
+autocommand if !did_filetype() && expand("<amatch>") !~ g:ft_ignore_pat | runtime! scripts.vim | endif
+
+chdir(/usr/share/vim/vim82)
+fchdir() to previous dir
+line 0: sourcing "/usr/share/vim/vim82/scripts.vim"
+finished sourcing /usr/share/vim/vim82/scripts.vim
+continuing in BufNewFile Autocommands for "*"
+Executing BufNewFile Autocommands for "*"
+autocommand if !did_filetype() && expand("<amatch>") !~ g:ft_ignore_pat    && (getline(1) =~ '^#' || getline(2) =~ '^#' || getline(3) =~ '^#'^I|| getline(4) =~ '^#' || getline(5) =~ '^#') |   setf FALLBACK conf | endif
+
+Executing BufWinEnter Autocommands for "*"
+autocommand call s:on_path(expand('<afile>'), 'BufWinEnter')
+
+Executing BufWinEnter Autocommands for "*"
+autocommand let g:fzf#vim#buffers[bufnr('')] = reltimefloat(reltime())
+
+Executing BufEnter Autocommands for "*"
+autocommand call s:on_path(expand('<afile>'), 'BufEnter')
+
+Executing BufEnter Autocommands for "*"
+autocommand call nerdtree#checkForBrowse(expand('<amatch>'))
+
+Executing BufEnter Autocommands for "*"
+autocommand call <SID>BufEnterHandler()
+
+Executing BufEnter Autocommands for "*"
+autocommand sil call s:LocalBrowse(expand("<amatch>"))
+
+Executing VimEnter Autocommands for "*"
+autocommand call s:on_vim_enter()
+
+Executing VimEnter Autocommands for "*"
+autocommand call s:on_path(expand('<afile>'), 'VimEnter')
+
+Executing VimEnter Autocommands for "*"
+autocommand if argc() == 0 && !exists("s:std_in") | NERDTree | endif
+
+Executing VimEnter Autocommands for "*"
+autocommand silent! autocmd! FileExplorer
+
+autocommand call nerdtree#checkForBrowse(expand('<amatch>'))
+
+Executing VimEnter Autocommands for "*"
+autocommand call <SID>VimEnterHandler()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+
+chdir(/Users/nishigusa/.vim/bundle/fzf.vim/autoload/fzf)
+fchdir() to previous dir
+sourcing "/Users/nishigusa/.vim/bundle/fzf.vim/autoload/fzf/vim.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/fzf.vim/autoload/fzf/vim.vim
+Calling shell to execute: "(/Users/nishigusa/.vim/bundle/fzf/bin/fzf --version)>/var/folders/cs/28_f6mf15wx007rxgww8wkv80000gn/T/vzSLkof/0 2>&1"
+Calling shell to execute: "(/Users/nishigusa/.vim/bundle/fzf/bin/fzf --version)>/var/folders/cs/28_f6mf15wx007rxgww8wkv80000gn/T/vzSLkof/2 2>&1"
+                                                                                                                                                /Users/nishigusa/vim_lern
+Executing BufNew Autocommands for "*"
+autocommand call s:on_path(expand('<afile>'), 'BufNew')
+
+Executing BufAdd Autocommands for "*"
+autocommand call s:on_path(expand('<afile>'), 'BufCreate')
+
+Executing BufAdd Autocommands for "*"
+autocommand call <SID>BufAddHandler()
+
+chdir(/Users/nishigusa/vim_lern)
+chdir(/Users/nishigusa/vim_lern)
+fchdir() to previous dir
+Reading viminfo file "/Users/nishigusa/.viminfo" marks
+Executing BufDelete Autocommands for "*"
+autocommand call <SID>BufDeleteHandler()
+
+Executing BufDelete Autocommands for "*"
+autocommand silent! call remove(g:fzf#vim#buffers, expand('<abuf>'))
+
+Error detected while processing BufDelete Autocommands for "*":
+E716: Key not present in Dictionary: 3
+chdir(/Users/nishigusa/vim_lern)
+chdir(/Users/nishigusa/vim_lern)
+Executing FileType Autocommands for "*"
+autocommand call s:on_filetype()
+
+Executing FileType Autocommands for "*"
+autocommand call s:LoadFTPlugin()
+
+not found in 'runtimepath': "ftplugin/minibufexpl.vim ftplugin/minibufexpl_*.vim ftplugin/minibufexpl/*.vim"
+Executing FileType Autocommands for "*"
+autocommand call s:LoadIndent()
+
+not found in 'runtimepath': "indent/minibufexpl.vim"
+Executing FileType Autocommands for "*"
+autocommand exe "set syntax=" . expand("<amatch>")
+
+Executing Syntax Autocommands for "*"
+autocommand call s:SynSet()
+
+not found in 'runtimepath': "syntax/minibufexpl.vim syntax/minibufexpl/*.vim"
+Executing FileType Autocommands for "minibufexpl"
+autocommand call <SID>RenderSyntax()
+
+chdir(/Users/nishigusa/vim_lern)
+Executing TerminalOpen Autocommands for "*"
+autocommand call s:popup_create(str2nr(expand('<abuf>')))
+
+chdir(/Users/nishigusa/vim_lern)
+Executing BufDelete Autocommands for "*"
+autocommand call <SID>BufDeleteHandler()
+
+Error detected while processing function <SNR>41_BufDeleteHandler[21]..<SNR>41_AutoUpdate[54]..<SNR>41_StopExplorer[15]..<SNR>41_SwitchWindow:
+line   24:
+E994: Not allowed in a popup window
+chdir(/Users/nishigusa/vim_lern)
+Executing WinEnter Autocommands for "*"
+autocommand call s:dopopd()
+
+/Users/nishigusa/vim_lern
+Executing WinEnter Autocommands for "*"
+autocommand let g:fzf#vim#buffers[bufnr('')] = reltimefloat(reltime())
+
+Executing WinEnter Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing BufEnter Autocommands for "*"
+autocommand call s:on_path(expand('<afile>'), 'BufEnter')
+
+Executing BufEnter Autocommands for "*"
+autocommand call nerdtree#checkForBrowse(expand('<amatch>'))
+
+Executing BufEnter Autocommands for "*"
+autocommand call <SID>BufEnterHandler()
+
+/Users/nishigusa/vim_lern
+/Users/nishigusa/vim_lern
+
+/Users/nishigusa/vim_lern
+Executing BufNew Autocommands for "*"
+autocommand call s:on_path(expand('<afile>'), 'BufNew')
+
+Executing BufAdd Autocommands for "*"
+autocommand call s:on_path(expand('<afile>'), 'BufCreate')
+
+Executing BufAdd Autocommands for "*"
+autocommand call <SID>BufAddHandler()
+
+Executing TerminalOpen Autocommands for "*"
+autocommand call s:popup_create(str2nr(expand('<abuf>')))
+
+chdir(/Users/nishigusa/vim_lern)
+Executing BufDelete Autocommands for "*"
+autocommand call <SID>BufDeleteHandler()
+
+Executing BufDelete Autocommands for "*"
+autocommand silent! call remove(g:fzf#vim#buffers, expand('<abuf>'))
+
+Error detected while processing BufDelete Autocommands for "*":
+E716: Key not present in Dictionary: 4
+Executing FileType Autocommands for "*"
+autocommand call s:on_filetype()
+
+Executing FileType Autocommands for "*"
+autocommand call s:LoadFTPlugin()
+
+not found in 'runtimepath': "ftplugin/fzf.vim ftplugin/fzf_*.vim ftplugin/fzf/*.vim"
+Executing FileType Autocommands for "*"
+autocommand call s:LoadIndent()
+
+not found in 'runtimepath': "indent/fzf.vim"
+Executing FileType Autocommands for "*"
+autocommand exe "set syntax=" . expand("<amatch>")
+
+Executing Syntax Autocommands for "*"
+autocommand call s:SynSet()
+
+not found in 'runtimepath': "syntax/fzf.vim syntax/fzf/*.vim"
+Executing FileType Autocommands for "fzf"
+autocommand call s:fzf_vim_term()
+
+Executing TextChanged Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+chdir(/Users/nishigusa/vim_lern)
+Executing WinEnter Autocommands for "*"
+autocommand call s:dopopd()
+
+/Users/nishigusa/vim_lern
+Executing WinEnter Autocommands for "*"
+autocommand let g:fzf#vim#buffers[bufnr('')] = reltimefloat(reltime())
+
+Executing WinEnter Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing BufEnter Autocommands for "*"
+autocommand call s:on_path(expand('<afile>'), 'BufEnter')
+
+Executing BufEnter Autocommands for "*"
+autocommand call nerdtree#checkForBrowse(expand('<amatch>'))
+
+Executing BufEnter Autocommands for "*"
+autocommand call <SID>BufEnterHandler()
+
+auto-removing autocommand: ColorScheme <buffer=4>
+auto-removing autocommand: WinEnter <buffer=4>
+/Users/nishigusa/vim_lern
+/Users/nishigusa/vim_lern
+
+Executing QuitPre Autocommands for "*"
+autocommand if <SID>NextNormalWindow() == -1 | call <SID>StopExplorer(0) | endif
+
+chdir(/Users/nishigusa/vim_lern)
+chdir(/Users/nishigusa/vim_lern)
+Writing viminfo file "/Users/nishigusa/.viminfo"
+chdir(/usr/share/vim)
+fchdir() to previous dir
+sourcing "$VIM/vimrc"
+finished sourcing $VIM/vimrc
+chdir(/usr/share/vim/vim82)
+fchdir() to previous dir
+could not source "$VIMRUNTIME/macmap.vim"
+chdir(/Users/nishigusa)
+fchdir() to previous dir
+sourcing "$HOME/.vimrc"
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/autoload)
+fchdir() to previous dir
+line 8: sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle.vim"
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle)
+fchdir() to previous dir
+line 41: sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/util.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/util.vim
+continuing in /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle.vim
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle.vim
+continuing in /Users/nishigusa/.vimrc
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle)
+fchdir() to previous dir
+line 23: sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/init.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/init.vim
+continuing in neobundle#begin
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle)
+fchdir() to previous dir
+line 35: sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/config.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/config.vim
+continuing in neobundle#init#_rc
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle)
+fchdir() to previous dir
+line 36: sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/autoload.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/autoload.vim
+continuing in neobundle#init#_rc
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle)
+fchdir() to previous dir
+line 9: sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/parser.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/parser.vim
+continuing in /Users/nishigusa/.vimrc
+Executing FuncUndefined Autocommands for "*"
+autocommand call s:on_function()
+
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/types)
+fchdir() to previous dir
+line 5: sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/types/git.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/types/git.vim
+continuing in neobundle#config#get_types
+chdir(/usr/share/vim/vim82)
+fchdir() to previous dir
+line 24: sourcing "/usr/share/vim/vim82/filetype.vim"
+chdir(/Users/nishigusa/.vim/bundle/.neobundle/ftdetect)
+fchdir() to previous dir
+line 2207: sourcing "/Users/nishigusa/.vim/bundle/.neobundle/ftdetect/ftdetect.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/.neobundle/ftdetect/ftdetect.vim
+continuing in /usr/share/vim/vim82/filetype.vim
+finished sourcing /usr/share/vim/vim82/filetype.vim
+continuing in /Users/nishigusa/.vimrc
+chdir(/usr/share/vim/vim82)
+fchdir() to previous dir
+line 24: sourcing "/usr/share/vim/vim82/ftplugin.vim"
+finished sourcing /usr/share/vim/vim82/ftplugin.vim
+continuing in /Users/nishigusa/.vimrc
+chdir(/usr/share/vim/vim82)
+fchdir() to previous dir
+line 24: sourcing "/usr/share/vim/vim82/indent.vim"
+finished sourcing /usr/share/vim/vim82/indent.vim
+continuing in /Users/nishigusa/.vimrc
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle)
+fchdir() to previous dir
+line 25: sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/commands.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/commands.vim
+continuing in /Users/nishigusa/.vimrc
+Executing FuncUndefined Autocommands for "*"
+autocommand call s:on_function()
+
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle)
+fchdir() to previous dir
+line 1: sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/installer.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/installer.vim
+continuing in neobundle#commands#check
+chdir(/Users/nishigusa/.vim/bundle)
+fchdir() to previous dir
+line 3: sourcing "/Users/nishigusa/.vim/bundle/NeoBundle.lock"
+finished sourcing /Users/nishigusa/.vim/bundle/NeoBundle.lock
+continuing in <SNR>15_source_lockfile
+chdir(/usr/share/vim/vim82/syntax)
+fchdir() to previous dir
+line 39: sourcing "/usr/share/vim/vim82/syntax/syntax.vim"
+chdir(/usr/share/vim/vim82/syntax)
+fchdir() to previous dir
+line 19: sourcing "/usr/share/vim/vim82/syntax/synload.vim"
+chdir(/usr/share/vim/vim82/syntax)
+fchdir() to previous dir
+line 21: sourcing "/usr/share/vim/vim82/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim82/syntax/syncolor.vim
+continuing in /usr/share/vim/vim82/syntax/synload.vim
+finished sourcing /usr/share/vim/vim82/syntax/synload.vim
+continuing in /usr/share/vim/vim82/syntax/syntax.vim
+finished sourcing /usr/share/vim/vim82/syntax/syntax.vim
+continuing in /Users/nishigusa/.vimrc
+chdir(/Users/nishigusa/.vim/colors)
+fchdir() to previous dir
+line 56: sourcing "/Users/nishigusa/.vim/colors/gusa.vim"
+chdir(/usr/share/vim/vim82/syntax)
+fchdir() to previous dir
+line 7: sourcing "/usr/share/vim/vim82/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim82/syntax/syncolor.vim
+continuing in /Users/nishigusa/.vim/colors/gusa.vim
+chdir(/usr/share/vim/vim82/syntax)
+fchdir() to previous dir
+line 8: sourcing "/usr/share/vim/vim82/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim82/syntax/syncolor.vim
+continuing in /Users/nishigusa/.vim/colors/gusa.vim
+chdir(/usr/share/vim/vim82/syntax)
+fchdir() to previous dir
+line 10: sourcing "/usr/share/vim/vim82/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim82/syntax/syncolor.vim
+continuing in /Users/nishigusa/.vim/colors/gusa.vim
+finished sourcing /Users/nishigusa/.vim/colors/gusa.vim
+continuing in /Users/nishigusa/.vimrc
+finished sourcing $HOME/.vimrc
+not found in 'packpath': "pack/*/start/*"
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/plugin)
+fchdir() to previous dir
+sourcing "/Users/nishigusa/.vim/bundle/nerdtree/plugin/NERD_tree.vim"
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/autoload)
+fchdir() to previous dir
+line 56: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/autoload/nerdtree.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/autoload/nerdtree.vim
+continuing in /Users/nishigusa/.vim/bundle/nerdtree/plugin/NERD_tree.vim
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 1: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/path.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/path.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 2: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/menu_controller.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/menu_controller.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 3: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/menu_item.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/menu_item.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 4: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/key_map.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/key_map.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 5: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/bookmark.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/bookmark.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 6: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/tree_file_node.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/tree_file_node.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 7: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/tree_dir_node.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/tree_dir_node.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 8: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/opener.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/opener.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 9: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/creator.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/creator.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 10: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/flag_set.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/flag_set.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 11: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/nerdtree.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/nerdtree.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 12: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/ui.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/ui.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 13: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/event.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/event.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 14: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/notifier.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/notifier.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/autoload/nerdtree)
+fchdir() to previous dir
+line 143: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/autoload/nerdtree/ui_glue.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/autoload/nerdtree/ui_glue.vim
+continuing in /Users/nishigusa/.vim/bundle/nerdtree/plugin/NERD_tree.vim
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/nerdtree_plugin)
+fchdir() to previous dir
+line 5: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/nerdtree_plugin/exec_menuitem.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/nerdtree_plugin/exec_menuitem.vim
+continuing in nerdtree#postSourceActions
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/nerdtree_plugin)
+fchdir() to previous dir
+line 5: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/nerdtree_plugin/fs_menu.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/nerdtree_plugin/fs_menu.vim
+continuing in nerdtree#postSourceActions
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/nerdtree_plugin)
+fchdir() to previous dir
+line 5: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/nerdtree_plugin/vcs.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/nerdtree_plugin/vcs.vim
+continuing in nerdtree#postSourceActions
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/plugin/NERD_tree.vim
+chdir(/Users/nishigusa/.vim/bundle/minibufexpl.vim/plugin)
+fchdir() to previous dir
+sourcing "/Users/nishigusa/.vim/bundle/minibufexpl.vim/plugin/minibufexpl.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/minibufexpl.vim/plugin/minibufexpl.vim
+chdir(/Users/nishigusa/.vim/bundle/fzf/plugin)
+fchdir() to previous dir
+sourcing "/Users/nishigusa/.vim/bundle/fzf/plugin/fzf.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/fzf/plugin/fzf.vim
+chdir(/Users/nishigusa/.vim/bundle/fzf.vim/plugin)
+fchdir() to previous dir
+sourcing "/Users/nishigusa/.vim/bundle/fzf.vim/plugin/fzf.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/fzf.vim/plugin/fzf.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/getscriptPlugin.vim"
+finished sourcing /usr/share/vim/vim82/plugin/getscriptPlugin.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/gzip.vim"
+finished sourcing /usr/share/vim/vim82/plugin/gzip.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/logiPat.vim"
+finished sourcing /usr/share/vim/vim82/plugin/logiPat.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/manpager.vim"
+finished sourcing /usr/share/vim/vim82/plugin/manpager.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/matchparen.vim"
+finished sourcing /usr/share/vim/vim82/plugin/matchparen.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/netrwPlugin.vim"
+finished sourcing /usr/share/vim/vim82/plugin/netrwPlugin.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/rrhelper.vim"
+finished sourcing /usr/share/vim/vim82/plugin/rrhelper.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/spellfile.vim"
+finished sourcing /usr/share/vim/vim82/plugin/spellfile.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/tarPlugin.vim"
+finished sourcing /usr/share/vim/vim82/plugin/tarPlugin.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/tohtml.vim"
+finished sourcing /usr/share/vim/vim82/plugin/tohtml.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/vimballPlugin.vim"
+finished sourcing /usr/share/vim/vim82/plugin/vimballPlugin.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/zipPlugin.vim"
+finished sourcing /usr/share/vim/vim82/plugin/zipPlugin.vim
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/plugin)
+fchdir() to previous dir
+sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/plugin/neobundle.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/plugin/neobundle.vim
+not found in 'packpath': "pack/*/start/*"
+not found in 'runtimepath': "plugin/**/*.vim"
+Reading viminfo file "/Users/nishigusa/.viminfo" info oldfiles
+"test" [New File]
+Reading viminfo file "/Users/nishigusa/.viminfo" marks
+Executing BufNewFile Autocommands for "*"
+autocommand call s:on_path(expand('<afile>'), 'BufNewFile')
+
+Executing BufNewFile Autocommands for "*"
+autocommand if !did_filetype() && expand("<amatch>") !~ g:ft_ignore_pat | runtime! scripts.vim | endif
+
+chdir(/usr/share/vim/vim82)
+fchdir() to previous dir
+line 0: sourcing "/usr/share/vim/vim82/scripts.vim"
+finished sourcing /usr/share/vim/vim82/scripts.vim
+continuing in BufNewFile Autocommands for "*"
+Executing BufNewFile Autocommands for "*"
+autocommand if !did_filetype() && expand("<amatch>") !~ g:ft_ignore_pat    && (getline(1) =~ '^#' || getline(2) =~ '^#' || getline(3) =~ '^#'^I|| getline(4) =~ '^#' || getline(5) =~ '^#') |   setf FALLBACK conf | endif
+
+Executing BufWinEnter Autocommands for "*"
+autocommand call s:on_path(expand('<afile>'), 'BufWinEnter')
+
+Executing BufWinEnter Autocommands for "*"
+autocommand let g:fzf#vim#buffers[bufnr('')] = reltimefloat(reltime())
+
+Executing BufEnter Autocommands for "*"
+autocommand call s:on_path(expand('<afile>'), 'BufEnter')
+
+Executing BufEnter Autocommands for "*"
+autocommand call nerdtree#checkForBrowse(expand('<amatch>'))
+
+Executing BufEnter Autocommands for "*"
+autocommand call <SID>BufEnterHandler()
+
+Executing BufEnter Autocommands for "*"
+autocommand sil call s:LocalBrowse(expand("<amatch>"))
+
+Executing VimEnter Autocommands for "*"
+autocommand call s:on_vim_enter()
+
+Executing VimEnter Autocommands for "*"
+autocommand call s:on_path(expand('<afile>'), 'VimEnter')
+
+Executing VimEnter Autocommands for "*"
+autocommand if argc() == 0 && !exists("s:std_in") | NERDTree | endif
+
+Executing VimEnter Autocommands for "*"
+autocommand silent! autocmd! FileExplorer
+
+autocommand call nerdtree#checkForBrowse(expand('<amatch>'))
+
+Executing VimEnter Autocommands for "*"
+autocommand call <SID>VimEnterHandler()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+
+  1 %a   "test"                         line 1
+
+chdir(/Users/nishigusa/.vim/bundle/fzf.vim/autoload/fzf)
+fchdir() to previous dir
+sourcing "/Users/nishigusa/.vim/bundle/fzf.vim/autoload/fzf/vim.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/fzf.vim/autoload/fzf/vim.vim
+Calling shell to execute: "(/Users/nishigusa/.vim/bundle/fzf/bin/fzf --version)>/var/folders/cs/28_f6mf15wx007rxgww8wkv80000gn/T/vwyMcNM/0 2>&1"
+Calling shell to execute: "(/Users/nishigusa/.vim/bundle/fzf/bin/fzf --version)>/var/folders/cs/28_f6mf15wx007rxgww8wkv80000gn/T/vwyMcNM/2 2>&1"
+                                                                                                                                                /Users/nishigusa/vim_lern
+Executing BufNew Autocommands for "*"
+autocommand call s:on_path(expand('<afile>'), 'BufNew')
+
+Executing BufAdd Autocommands for "*"
+autocommand call s:on_path(expand('<afile>'), 'BufCreate')
+
+Executing BufAdd Autocommands for "*"
+autocommand call <SID>BufAddHandler()
+
+chdir(/Users/nishigusa/vim_lern)
+chdir(/Users/nishigusa/vim_lern)
+fchdir() to previous dir
+Reading viminfo file "/Users/nishigusa/.viminfo" marks
+Executing BufDelete Autocommands for "*"
+autocommand call <SID>BufDeleteHandler()
+
+Executing BufDelete Autocommands for "*"
+autocommand silent! call remove(g:fzf#vim#buffers, expand('<abuf>'))
+
+Error detected while processing BufDelete Autocommands for "*":
+E716: Key not present in Dictionary: 3
+chdir(/Users/nishigusa/vim_lern)
+chdir(/Users/nishigusa/vim_lern)
+Executing FileType Autocommands for "*"
+autocommand call s:on_filetype()
+
+Executing FileType Autocommands for "*"
+autocommand call s:LoadFTPlugin()
+
+not found in 'runtimepath': "ftplugin/minibufexpl.vim ftplugin/minibufexpl_*.vim ftplugin/minibufexpl/*.vim"
+Executing FileType Autocommands for "*"
+autocommand call s:LoadIndent()
+
+not found in 'runtimepath': "indent/minibufexpl.vim"
+Executing FileType Autocommands for "*"
+autocommand exe "set syntax=" . expand("<amatch>")
+
+Executing Syntax Autocommands for "*"
+autocommand call s:SynSet()
+
+not found in 'runtimepath': "syntax/minibufexpl.vim syntax/minibufexpl/*.vim"
+Executing FileType Autocommands for "minibufexpl"
+autocommand call <SID>RenderSyntax()
+
+chdir(/Users/nishigusa/vim_lern)
+Executing TerminalOpen Autocommands for "*"
+autocommand call s:popup_create(str2nr(expand('<abuf>')))
+
+chdir(/Users/nishigusa/vim_lern)
+Executing BufDelete Autocommands for "*"
+autocommand call <SID>BufDeleteHandler()
+
+Error detected while processing function <SNR>41_BufDeleteHandler[21]..<SNR>41_AutoUpdate[54]..<SNR>41_StopExplorer[15]..<SNR>41_SwitchWindow:
+line   24:
+E994: Not allowed in a popup window
+chdir(/Users/nishigusa/vim_lern)
+Executing WinEnter Autocommands for "*"
+autocommand call s:dopopd()
+
+/Users/nishigusa/vim_lern
+Executing WinEnter Autocommands for "*"
+autocommand let g:fzf#vim#buffers[bufnr('')] = reltimefloat(reltime())
+
+Executing WinEnter Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing BufEnter Autocommands for "*"
+autocommand call s:on_path(expand('<afile>'), 'BufEnter')
+
+Executing BufEnter Autocommands for "*"
+autocommand call nerdtree#checkForBrowse(expand('<amatch>'))
+
+Executing BufEnter Autocommands for "*"
+autocommand call <SID>BufEnterHandler()
+
+/Users/nishigusa/vim_lern
+/Users/nishigusa/vim_lern
+
+Executing QuitPre Autocommands for "*"
+autocommand if <SID>NextNormalWindow() == -1 | call <SID>StopExplorer(0) | endif
+
+chdir(/Users/nishigusa/vim_lern)
+chdir(/Users/nishigusa/vim_lern)
+Writing viminfo file "/Users/nishigusa/.viminfo"
+chdir(/usr/share/vim)
+fchdir() to previous dir
+sourcing "$VIM/vimrc"
+finished sourcing $VIM/vimrc
+chdir(/usr/share/vim/vim82)
+fchdir() to previous dir
+could not source "$VIMRUNTIME/macmap.vim"
+chdir(/Users/nishigusa)
+fchdir() to previous dir
+sourcing "$HOME/.vimrc"
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/autoload)
+fchdir() to previous dir
+line 8: sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle.vim"
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle)
+fchdir() to previous dir
+line 41: sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/util.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/util.vim
+continuing in /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle.vim
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle.vim
+continuing in /Users/nishigusa/.vimrc
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle)
+fchdir() to previous dir
+line 23: sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/init.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/init.vim
+continuing in neobundle#begin
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle)
+fchdir() to previous dir
+line 35: sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/config.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/config.vim
+continuing in neobundle#init#_rc
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle)
+fchdir() to previous dir
+line 36: sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/autoload.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/autoload.vim
+continuing in neobundle#init#_rc
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle)
+fchdir() to previous dir
+line 9: sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/parser.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/parser.vim
+continuing in /Users/nishigusa/.vimrc
+Executing FuncUndefined Autocommands for "*"
+autocommand call s:on_function()
+
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/types)
+fchdir() to previous dir
+line 5: sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/types/git.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/types/git.vim
+continuing in neobundle#config#get_types
+chdir(/usr/share/vim/vim82)
+fchdir() to previous dir
+line 24: sourcing "/usr/share/vim/vim82/filetype.vim"
+chdir(/Users/nishigusa/.vim/bundle/.neobundle/ftdetect)
+fchdir() to previous dir
+line 2207: sourcing "/Users/nishigusa/.vim/bundle/.neobundle/ftdetect/ftdetect.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/.neobundle/ftdetect/ftdetect.vim
+continuing in /usr/share/vim/vim82/filetype.vim
+finished sourcing /usr/share/vim/vim82/filetype.vim
+continuing in /Users/nishigusa/.vimrc
+chdir(/usr/share/vim/vim82)
+fchdir() to previous dir
+line 24: sourcing "/usr/share/vim/vim82/ftplugin.vim"
+finished sourcing /usr/share/vim/vim82/ftplugin.vim
+continuing in /Users/nishigusa/.vimrc
+chdir(/usr/share/vim/vim82)
+fchdir() to previous dir
+line 24: sourcing "/usr/share/vim/vim82/indent.vim"
+finished sourcing /usr/share/vim/vim82/indent.vim
+continuing in /Users/nishigusa/.vimrc
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle)
+fchdir() to previous dir
+line 25: sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/commands.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/commands.vim
+continuing in /Users/nishigusa/.vimrc
+Executing FuncUndefined Autocommands for "*"
+autocommand call s:on_function()
+
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle)
+fchdir() to previous dir
+line 1: sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/installer.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/autoload/neobundle/installer.vim
+continuing in neobundle#commands#check
+chdir(/Users/nishigusa/.vim/bundle)
+fchdir() to previous dir
+line 3: sourcing "/Users/nishigusa/.vim/bundle/NeoBundle.lock"
+finished sourcing /Users/nishigusa/.vim/bundle/NeoBundle.lock
+continuing in <SNR>15_source_lockfile
+chdir(/usr/share/vim/vim82/syntax)
+fchdir() to previous dir
+line 39: sourcing "/usr/share/vim/vim82/syntax/syntax.vim"
+chdir(/usr/share/vim/vim82/syntax)
+fchdir() to previous dir
+line 19: sourcing "/usr/share/vim/vim82/syntax/synload.vim"
+chdir(/usr/share/vim/vim82/syntax)
+fchdir() to previous dir
+line 21: sourcing "/usr/share/vim/vim82/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim82/syntax/syncolor.vim
+continuing in /usr/share/vim/vim82/syntax/synload.vim
+finished sourcing /usr/share/vim/vim82/syntax/synload.vim
+continuing in /usr/share/vim/vim82/syntax/syntax.vim
+finished sourcing /usr/share/vim/vim82/syntax/syntax.vim
+continuing in /Users/nishigusa/.vimrc
+chdir(/Users/nishigusa/.vim/colors)
+fchdir() to previous dir
+line 56: sourcing "/Users/nishigusa/.vim/colors/gusa.vim"
+chdir(/usr/share/vim/vim82/syntax)
+fchdir() to previous dir
+line 7: sourcing "/usr/share/vim/vim82/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim82/syntax/syncolor.vim
+continuing in /Users/nishigusa/.vim/colors/gusa.vim
+chdir(/usr/share/vim/vim82/syntax)
+fchdir() to previous dir
+line 8: sourcing "/usr/share/vim/vim82/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim82/syntax/syncolor.vim
+continuing in /Users/nishigusa/.vim/colors/gusa.vim
+chdir(/usr/share/vim/vim82/syntax)
+fchdir() to previous dir
+line 10: sourcing "/usr/share/vim/vim82/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim82/syntax/syncolor.vim
+continuing in /Users/nishigusa/.vim/colors/gusa.vim
+finished sourcing /Users/nishigusa/.vim/colors/gusa.vim
+continuing in /Users/nishigusa/.vimrc
+finished sourcing $HOME/.vimrc
+not found in 'packpath': "pack/*/start/*"
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/plugin)
+fchdir() to previous dir
+sourcing "/Users/nishigusa/.vim/bundle/nerdtree/plugin/NERD_tree.vim"
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/autoload)
+fchdir() to previous dir
+line 56: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/autoload/nerdtree.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/autoload/nerdtree.vim
+continuing in /Users/nishigusa/.vim/bundle/nerdtree/plugin/NERD_tree.vim
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 1: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/path.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/path.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 2: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/menu_controller.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/menu_controller.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 3: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/menu_item.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/menu_item.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 4: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/key_map.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/key_map.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 5: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/bookmark.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/bookmark.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 6: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/tree_file_node.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/tree_file_node.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 7: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/tree_dir_node.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/tree_dir_node.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 8: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/opener.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/opener.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 9: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/creator.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/creator.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 10: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/flag_set.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/flag_set.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 11: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/nerdtree.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/nerdtree.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 12: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/ui.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/ui.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 13: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/event.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/event.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 14: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/notifier.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/lib/nerdtree/notifier.vim
+continuing in nerdtree#loadClassFiles
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/autoload/nerdtree)
+fchdir() to previous dir
+line 143: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/autoload/nerdtree/ui_glue.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/autoload/nerdtree/ui_glue.vim
+continuing in /Users/nishigusa/.vim/bundle/nerdtree/plugin/NERD_tree.vim
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/nerdtree_plugin)
+fchdir() to previous dir
+line 5: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/nerdtree_plugin/exec_menuitem.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/nerdtree_plugin/exec_menuitem.vim
+continuing in nerdtree#postSourceActions
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/nerdtree_plugin)
+fchdir() to previous dir
+line 5: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/nerdtree_plugin/fs_menu.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/nerdtree_plugin/fs_menu.vim
+continuing in nerdtree#postSourceActions
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/nerdtree_plugin)
+fchdir() to previous dir
+line 5: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/nerdtree_plugin/vcs.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/nerdtree_plugin/vcs.vim
+continuing in nerdtree#postSourceActions
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/plugin/NERD_tree.vim
+chdir(/Users/nishigusa/.vim/bundle/minibufexpl.vim/plugin)
+fchdir() to previous dir
+sourcing "/Users/nishigusa/.vim/bundle/minibufexpl.vim/plugin/minibufexpl.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/minibufexpl.vim/plugin/minibufexpl.vim
+chdir(/Users/nishigusa/.vim/bundle/fzf/plugin)
+fchdir() to previous dir
+sourcing "/Users/nishigusa/.vim/bundle/fzf/plugin/fzf.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/fzf/plugin/fzf.vim
+chdir(/Users/nishigusa/.vim/bundle/fzf.vim/plugin)
+fchdir() to previous dir
+sourcing "/Users/nishigusa/.vim/bundle/fzf.vim/plugin/fzf.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/fzf.vim/plugin/fzf.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/getscriptPlugin.vim"
+finished sourcing /usr/share/vim/vim82/plugin/getscriptPlugin.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/gzip.vim"
+finished sourcing /usr/share/vim/vim82/plugin/gzip.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/logiPat.vim"
+finished sourcing /usr/share/vim/vim82/plugin/logiPat.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/manpager.vim"
+finished sourcing /usr/share/vim/vim82/plugin/manpager.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/matchparen.vim"
+finished sourcing /usr/share/vim/vim82/plugin/matchparen.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/netrwPlugin.vim"
+finished sourcing /usr/share/vim/vim82/plugin/netrwPlugin.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/rrhelper.vim"
+finished sourcing /usr/share/vim/vim82/plugin/rrhelper.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/spellfile.vim"
+finished sourcing /usr/share/vim/vim82/plugin/spellfile.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/tarPlugin.vim"
+finished sourcing /usr/share/vim/vim82/plugin/tarPlugin.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/tohtml.vim"
+finished sourcing /usr/share/vim/vim82/plugin/tohtml.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/vimballPlugin.vim"
+finished sourcing /usr/share/vim/vim82/plugin/vimballPlugin.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/zipPlugin.vim"
+finished sourcing /usr/share/vim/vim82/plugin/zipPlugin.vim
+chdir(/Users/nishigusa/.vim/bundle/neobundle.vim/plugin)
+fchdir() to previous dir
+sourcing "/Users/nishigusa/.vim/bundle/neobundle.vim/plugin/neobundle.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/neobundle.vim/plugin/neobundle.vim
+not found in 'packpath': "pack/*/start/*"
+not found in 'runtimepath': "plugin/**/*.vim"
+Reading viminfo file "/Users/nishigusa/.viminfo" info oldfiles
+Executing BufWinEnter Autocommands for "*"
+autocommand call s:on_path(expand('<afile>'), 'BufWinEnter')
+
+Executing BufWinEnter Autocommands for "*"
+autocommand let g:fzf#vim#buffers[bufnr('')] = reltimefloat(reltime())
+
+Executing BufEnter Autocommands for "*"
+autocommand call s:on_path(expand('<afile>'), 'BufEnter')
+
+Executing BufEnter Autocommands for "*"
+autocommand call nerdtree#checkForBrowse(expand('<amatch>'))
+
+Executing BufEnter Autocommands for "*"
+autocommand call <SID>BufEnterHandler()
+
+Executing BufEnter Autocommands for "*"
+autocommand sil call s:LocalBrowse(expand("<amatch>"))
+
+Executing VimEnter Autocommands for "*"
+autocommand call s:on_vim_enter()
+
+Executing VimEnter Autocommands for "*"
+autocommand call s:on_path(expand('<afile>'), 'VimEnter')
+
+Executing VimEnter Autocommands for "*"
+autocommand if argc() == 0 && !exists("s:std_in") | NERDTree | endif
+
+chdir(/Users/nishigusa/vim_lern)
+fchdir() to previous dir
+Reading viminfo file "/Users/nishigusa/.viminfo" marks
+Executing BufDelete Autocommands for "*"
+autocommand call <SID>BufDeleteHandler()
+
+Executing BufDelete Autocommands for "*"
+autocommand silent! call remove(g:fzf#vim#buffers, expand('<abuf>'))
+
+Error detected while processing BufDelete Autocommands for "*":
+E716: Key not present in Dictionary: 2
+Executing FileType Autocommands for "*"
+autocommand call s:on_filetype()
+
+Executing FileType Autocommands for "*"
+autocommand call s:LoadFTPlugin()
+
+not found in 'runtimepath': "ftplugin/nerdtree.vim ftplugin/nerdtree_*.vim ftplugin/nerdtree/*.vim"
+Executing FileType Autocommands for "*"
+autocommand call s:LoadIndent()
+
+not found in 'runtimepath': "indent/nerdtree.vim"
+Executing FileType Autocommands for "*"
+autocommand exe "set syntax=" . expand("<amatch>")
+
+Executing Syntax Autocommands for "*"
+autocommand call s:SynSet()
+
+chdir(/Users/nishigusa/.vim/bundle/nerdtree/syntax)
+fchdir() to previous dir
+line 25: sourcing "/Users/nishigusa/.vim/bundle/nerdtree/syntax/nerdtree.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/nerdtree/syntax/nerdtree.vim
+continuing in <SNR>18_SynSet
+
+12 more lines
+Executing VimEnter Autocommands for "*"
+autocommand silent! autocmd! FileExplorer
+
+autocommand call nerdtree#checkForBrowse(expand('<amatch>'))
+
+Executing VimEnter Autocommands for "*"
+autocommand call <SID>VimEnterHandler()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing TextChanged Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+
+chdir(/Users/nishigusa/.vim/bundle/fzf.vim/autoload/fzf)
+fchdir() to previous dir
+sourcing "/Users/nishigusa/.vim/bundle/fzf.vim/autoload/fzf/vim.vim"
+finished sourcing /Users/nishigusa/.vim/bundle/fzf.vim/autoload/fzf/vim.vim
+Calling shell to execute: "(/Users/nishigusa/.vim/bundle/fzf/bin/fzf --version)>/var/folders/cs/28_f6mf15wx007rxgww8wkv80000gn/T/vIsYPcB/0 2>&1"
+Calling shell to execute: "(/Users/nishigusa/.vim/bundle/fzf/bin/fzf --version)>/var/folders/cs/28_f6mf15wx007rxgww8wkv80000gn/T/vIsYPcB/2 2>&1"
+                                                                                                                                                /Users/nishigusa/vim_lern
+Executing BufNew Autocommands for "*"
+autocommand call s:on_path(expand('<afile>'), 'BufNew')
+
+Executing BufAdd Autocommands for "*"
+autocommand call s:on_path(expand('<afile>'), 'BufCreate')
+
+Executing BufAdd Autocommands for "*"
+autocommand call <SID>BufAddHandler()
+
+Executing TerminalOpen Autocommands for "*"
+autocommand call s:popup_create(str2nr(expand('<abuf>')))
+
+chdir(/Users/nishigusa/vim_lern)
+Executing BufDelete Autocommands for "*"
+autocommand call <SID>BufDeleteHandler()
+
+Executing BufDelete Autocommands for "*"
+autocommand silent! call remove(g:fzf#vim#buffers, expand('<abuf>'))
+
+Error detected while processing BufDelete Autocommands for "*":
+E716: Key not present in Dictionary: 3
+Executing FileType Autocommands for "*"
+autocommand call s:on_filetype()
+
+Executing FileType Autocommands for "*"
+autocommand call s:LoadFTPlugin()
+
+not found in 'runtimepath': "ftplugin/fzf.vim ftplugin/fzf_*.vim ftplugin/fzf/*.vim"
+Executing FileType Autocommands for "*"
+autocommand call s:LoadIndent()
+
+not found in 'runtimepath': "indent/fzf.vim"
+Executing FileType Autocommands for "*"
+autocommand exe "set syntax=" . expand("<amatch>")
+
+Executing Syntax Autocommands for "*"
+autocommand call s:SynSet()
+
+not found in 'runtimepath': "syntax/fzf.vim syntax/fzf/*.vim"
+Executing FileType Autocommands for "fzf"
+autocommand call s:fzf_vim_term()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing TextChanged Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+chdir(/Users/nishigusa/vim_lern)
+Executing WinEnter Autocommands for "NERD_tree_*"
+autocommand stopinsert
+
+Executing WinEnter Autocommands for "*"
+autocommand call s:dopopd()
+
+/Users/nishigusa/vim_lern
+Executing WinEnter Autocommands for "*"
+autocommand let g:fzf#vim#buffers[bufnr('')] = reltimefloat(reltime())
+
+Executing WinEnter Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing BufEnter Autocommands for "*"
+autocommand call s:on_path(expand('<afile>'), 'BufEnter')
+
+Executing BufEnter Autocommands for "NERD_tree_*"
+autocommand stopinsert
+
+Executing BufEnter Autocommands for "*"
+autocommand call nerdtree#checkForBrowse(expand('<amatch>'))
+
+Executing BufEnter Autocommands for "*"
+autocommand call <SID>BufEnterHandler()
+
+auto-removing autocommand: ColorScheme <buffer=3>
+auto-removing autocommand: WinEnter <buffer=3>
+/Users/nishigusa/vim_lern
+/Users/nishigusa/vim_lern
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorHold Autocommands for "*"
+autocommand if s:active_auto_source | call s:source_focus() | endif
+
+Executing CursorHold Autocommands for "*"
+autocommand call <SID>DEBUG('Entering UpdateBufferStateDict AutoCmd', 10) | call <SID>UpdateBufferStateDict(bufnr("%"),0) | call <SID>DEBUG('Leaving UpdateBufferStateDict AutoCmd', 10)
+
+
+Executing QuitPre Autocommands for "*"
+autocommand if <SID>NextNormalWindow() == -1 | call <SID>StopExplorer(0) | endif
+
+Executing BufLeave Autocommands for "NERD_tree_*"
+autocommand if g:NERDTree.IsOpen() | call b:NERDTree.ui.saveScreenState() | endif
+
+Executing WinLeave Autocommands for "NERD_tree_*"
+autocommand if g:NERDTree.IsOpen() | call b:NERDTree.ui.saveScreenState() | endif
+
+Executing WinEnter Autocommands for "*"
+autocommand call s:dopopd()
+
+Executing WinEnter Autocommands for "*"
+autocommand let g:fzf#vim#buffers[bufnr('')] = reltimefloat(reltime())
+
+Executing WinEnter Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing BufEnter Autocommands for "*"
+autocommand call s:on_path(expand('<afile>'), 'BufEnter')
+
+Executing BufEnter Autocommands for "*"
+autocommand call nerdtree#checkForBrowse(expand('<amatch>'))
+
+Executing BufEnter Autocommands for "*"
+autocommand call <SID>BufEnterHandler()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+
+Executing QuitPre Autocommands for "*"
+autocommand if <SID>NextNormalWindow() == -1 | call <SID>StopExplorer(0) | endif
+
+Writing viminfo file "/Users/nishigusa/.viminfo"
