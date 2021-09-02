@@ -1,29 +1,29 @@
 # move & edit
 
->  h
->  j
->  k
->  l
->  
->  gg      // top line 
->  
->  G       // last line
->  
->  I       // line top
->  
->  A       // Line end
->  
->  <C-d>   // page down
->  
->  <C-u>   // page up
->  
->  o       // next line append
->  
->  x       // delete select
->  
->  dd      // delete line
->  
->  /       // serch
+  h
+  j
+  k
+  l
+  
+  gg      // top line 
+  
+  G       // last line
+  
+  I       // line top
+  
+  A       // Line end
+  
+  <C-d>   // page down
+  
+  <C-u>   // page up
+  
+  o       // next line append
+  
+  x       // delete select
+  
+  dd      // delete line
+  
+  /       // serch
 
 
 # yank & paste
