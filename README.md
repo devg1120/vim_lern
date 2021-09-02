@@ -1,5 +1,5 @@
 # move & edit
-:::
+:::note info
 h
 j
 k
