@@ -1,4 +1,7 @@
 [[plugins]]
+repo = 'kassio/neoterm'
+
+[[plugins]]
 repo  = 'scrooloose/nerdtree'
 
 [[plugins]]
@@ -6,3 +9,4 @@ repo  =  'fholgado/minibufexpl.vim'
 
 [[plugins]]
 repo  =  'leafgarland/typescript-vim'
+

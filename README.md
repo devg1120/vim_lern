@@ -19,11 +19,12 @@
 # vim plugin
 
 ```
-NeoBundle 'scrooloose/nerdtree'
-NeoBundle 'fholgado/minibufexpl.vim'
-NeoBundle 'junegunn/fzf', { 'do': { -> fzf#install() } }
-NeoBundle 'junegunn/fzf.vim'
-NeoBundle 'reireias/vim-cheatsheet'
+'kassio/neoterm'
+'scrooloose/nerdtree'
+'fholgado/minibufexpl.vim'
+'junegunn/fzf', { 'do': { -> fzf#install() } }
+'junegunn/fzf.vim'
+'reireias/vim-cheatsheet'
 
 ```
 
@@ -37,6 +38,30 @@ NeoBundle 'reireias/vim-cheatsheet'
 
 ```
   :Cheat
+```
+
+# termnal 
+
+```
+  :TS           // open & insert mode
+  i             // insert mode
+  <C+\> <C+n>   // normal mode
+  <Esc>         // short cut normal mode
+
+
+```
+
+# neoterm
+
+```
+ :T <command>
+
+ :Tnew    // new buffer
+ :Topen
+ :Tclose
+ :Tclear
+
+
 ```
 
 # move & edit

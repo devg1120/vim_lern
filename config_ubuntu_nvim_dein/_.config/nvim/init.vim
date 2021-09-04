@@ -1,4 +1,5 @@
-
+set modifiable
+set write
 
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -6,6 +7,7 @@
 augroup MyAutoCmd
     autocmd!
 augroup END
+
 
 " ENV
 let $CACHE = empty($XDG_CACHE_HOME) ? expand('$HOME/.cache') : $XDG_CACHE_HOME
@@ -47,6 +49,13 @@ let g:miniBufExplModSelTarget = 1
 let g:miniBufExplSplitToEdge = 0
 let g:miniBufExplBRSplit = 1
 let g:miniBufExplVSplit = 26   " column width in chars
+
+" terminal help
+command! -nargs=* TS split | wincmd j | resize 20 | terminal <args>
+autocmd TermOpen * startinsert
+:tnoremap <Esc> <C-\><C-n>
+
+
 
 
 syntax on
