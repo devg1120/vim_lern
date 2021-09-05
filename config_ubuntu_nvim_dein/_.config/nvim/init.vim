@@ -63,9 +63,7 @@ command! -nargs=* H1 split | wincmd j | resize 20 | terminal glow -p ~/.config/n
 command! -nargs=* H2 split | wincmd j | resize 20 | terminal glow -p ~/.config/nvim/man/vim-cheatsheet2.md
 
 
-" nnoremap <Leader>ss :SaveSession
-" nnoremap <Leader>os :OpenSession
-" nnoremap <Leader>vs :ViewSession
+set sessionoptions+=resize
 command! Ssv SaveSession
 command! Sop OpenSession
 command! Svi ViewSession
