@@ -45,11 +45,6 @@ repo  =  'xolox/vim-misc'
 
 ```
 
-# Plugin fzf
-
-```
-  :Files
-```
 
 # Help
 
@@ -89,6 +84,15 @@ repo  =  'xolox/vim-misc'
  :Tclose
  :Tclear
 
+
+```
+
+# fzf
+
+```
+  :Files
+  :History
+  :Buffers
 
 ```
 
