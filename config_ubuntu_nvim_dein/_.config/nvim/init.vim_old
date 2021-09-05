@@ -1,0 +1,15 @@
+
+syntax on
+syntax enable
+set background=dark
+"colorscheme lucius
+colorscheme gusa
+set number
+
+set expandtab
+set shiftwidth=2
+
+set autoindent
+
+set backupcopy=yes
+

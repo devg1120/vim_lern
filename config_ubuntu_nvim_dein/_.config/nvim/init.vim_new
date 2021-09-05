@@ -1,5 +1,6 @@
-set modifiable
-set write
+
+syntax on
+syntax enable
 
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -7,7 +8,6 @@ set write
 augroup MyAutoCmd
     autocmd!
 augroup END
-
 
 " ENV
 let $CACHE = empty($XDG_CACHE_HOME) ? expand('$HOME/.cache') : $XDG_CACHE_HOME
@@ -28,6 +28,8 @@ call s:load('plugins')
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""
 
+syntax on
+syntax enable
 
 :command Tree  NERDTree
 :command Trt   NERDTreeToggle
@@ -40,6 +42,7 @@ autocmd StdinReadPre * let s:std_in=1
 
 autocmd VimEnter * if argc() == 0 && !exists("s:std_in") | NERDTree | endif
 
+syntax enable
 
 
 let g:miniBufExplMapWindowNavVim = 1
@@ -50,34 +53,12 @@ let g:miniBufExplSplitToEdge = 0
 let g:miniBufExplBRSplit = 1
 let g:miniBufExplVSplit = 26   " column width in chars
 
-" terminal help
-command! -nargs=* TS split | wincmd j | resize 20 | terminal <args>
-autocmd TermOpen * startinsert
-:tnoremap <Esc> <C-\><C-n>
-
-" skanehira/preview-markdown.vim
-let g:preview_markdown_parser = "glow"
-" let g:preview_markdown_vertical = 1
-
-command! -nargs=* H1 split | wincmd j | resize 20 | terminal glow -p ~/.config/nvim/man/vim-cheatsheet1.md
-command! -nargs=* H2 split | wincmd j | resize 20 | terminal glow -p ~/.config/nvim/man/vim-cheatsheet2.md
 
 
-" nnoremap <Leader>ss :SaveSession
-" nnoremap <Leader>os :OpenSession
-" nnoremap <Leader>vs :ViewSession
-command! Ssv SaveSession
-command! Sop OpenSession
-command! Svi ViewSession
-
-syntax on
-syntax enable
-
-let g:lucius_style = "dark"
 "colorscheme desert
 "colorscheme elflord
 "colorscheme pablo
 "colorscheme gusa
-colorscheme lucius
+colorscheme gusa
 
 

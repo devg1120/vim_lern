@@ -10,3 +10,13 @@ repo  =  'fholgado/minibufexpl.vim'
 [[plugins]]
 repo  =  'leafgarland/typescript-vim'
 
+[[plugins]]
+repo = 'skanehira/preview-markdown.vim'
+
+[[plugins]]
+repo = 'xolox/vim-session'
+depends = ['xolox/vim-misc']
+
+[[plugins]]
+repo = 'xolox/vim-misc'
+

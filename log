@@ -1892,3 +1892,77 @@ Executing QuitPre Autocommands for "*"
 autocommand if <SID>NextNormalWindow() == -1 | call <SID>StopExplorer(0) | endif
 
 Writing viminfo file "/Users/nishigusa/.viminfo"
+could not source "/etc/xdg/xdg-ubuntu/nvim/sysinit.vim"
+could not source "/usr/share/upstart/xdg/nvim/sysinit.vim"
+could not source "/etc/xdg/nvim/sysinit.vim"
+could not source "$VIM/sysinit.vim"
+/tmp/.mount_nvimCulqam/usr/share/nvim/runtime/ftoff.vim の処理中にエラーが検出されました:
+行   11:
+E216: そのようなグループもしくはイベントはありません: filetypedetect *
+not found in 'packpath': "pack/*/start/*/ftoff.vim"
+not found in 'packpath': "start/*/ftoff.vim"
+                                            [dein] vim-scripts.org is deprecated. You can use "vim-scripts/ellisonleao.glow.nvim" instead.
+[dein] vim-scripts.org is deprecated. You can use "vim-scripts/ellisonleao.glow.nvim" instead.
+[dein] Not installed plugins: ['ellisonleao.glow.nvim']
+
+not found in 'packpath': "pack/*/start/*/syntax/syncolor.vim"
+not found in 'packpath': "start/*/syntax/syncolor.vim"
+not found in 'packpath': "pack/*/start/*/ftdetect/*.vim"
+not found in 'packpath': "start/*/ftdetect/*.vim"
+not found in 'runtimepath': "ftdetect/*.lua"
+not found in 'packpath': "pack/*/start/*/ftdetect/*.lua"
+not found in 'packpath': "start/*/ftdetect/*.lua"
+not found in 'packpath': "pack/*/start/*/filetype.vim"
+not found in 'packpath': "start/*/filetype.vim"
+not found in 'packpath': "pack/*/start/*/scripts.vim"
+not found in 'packpath': "start/*/scripts.vim"
+not found in 'packpath': "pack/*/start/*/syntax/syncolor.vim"
+not found in 'packpath': "start/*/syntax/syncolor.vim"
+not found in 'packpath': "pack/*/start/*/syntax/syncolor.vim"
+not found in 'packpath': "start/*/syntax/syncolor.vim"
+not found in 'packpath': "pack/*/start/*/syntax/syncolor.vim"
+not found in 'packpath': "start/*/syntax/syncolor.vim"
+not found in 'packpath': "pack/*/start/*/syntax/syncolor.vim"
+not found in 'packpath': "start/*/syntax/syncolor.vim"
+not found in 'packpath': "pack/*/start/*/ftplugin.vim"
+not found in 'packpath': "start/*/ftplugin.vim"
+not found in 'packpath': "pack/*/start/*/indent.vim"
+not found in 'packpath': "start/*/indent.vim"
+not found in 'packpath': "pack/*/start/*"
+not found in 'packpath': "start/*"
+not found in 'packpath': "pack/*/start/*/nerdtree_plugin/**/*.vim"
+not found in 'packpath': "start/*/nerdtree_plugin/**/*.vim"
+not found in 'packpath': "pack/*/start/matchit"
+not found in 'packpath': "plugin/**/*.lua"
+not found in 'packpath': "pack/*/start/*"
+not found in 'packpath': "start/*"
+not found in 'runtimepath': "plugin/**/*.vim"
+not found in 'packpath': "pack/*/start/*/plugin/**/*.vim"
+not found in 'packpath': "start/*/plugin/**/*.vim"
+not found in 'runtimepath': "plugin/**/*.lua"
+not found in 'packpath': "pack/*/start/*/plugin/**/*.lua"
+not found in 'packpath': "start/*/plugin/**/*.lua"
+Reading ShaDa file "/home/gusa1120/.local/share/nvim/shada/main.shada" info marks oldfiles
+Reading ShaDa file "/home/gusa1120/.local/share/nvim/shada/main.shada" marks
+not found in 'packpath': "pack/*/start/*/syntax/nerdtree.vim syntax/nerdtree/*.vim"
+not found in 'packpath': "start/*/syntax/nerdtree.vim syntax/nerdtree/*.vim"
+not found in 'runtimepath': "syntax/nerdtree.lua syntax/nerdtree/*.lua"
+not found in 'packpath': "pack/*/start/*/syntax/nerdtree.lua syntax/nerdtree/*.lua"
+not found in 'packpath': "start/*/syntax/nerdtree.lua syntax/nerdtree/*.lua"
+not found in 'runtimepath': "ftplugin/nerdtree.vim ftplugin/nerdtree_*.vim ftplugin/nerdtree/*.vim"
+not found in 'packpath': "pack/*/start/*/ftplugin/nerdtree.vim ftplugin/nerdtree_*.vim ftplugin/nerdtree/*.vim"
+not found in 'packpath': "start/*/ftplugin/nerdtree.vim ftplugin/nerdtree_*.vim ftplugin/nerdtree/*.vim"
+not found in 'runtimepath': "ftplugin/nerdtree.lua ftplugin/nerdtree_*.lua ftplugin/nerdtree/*.lua"
+not found in 'packpath': "pack/*/start/*/ftplugin/nerdtree.lua ftplugin/nerdtree_*.lua ftplugin/nerdtree/*.lua"
+not found in 'packpath': "start/*/ftplugin/nerdtree.lua ftplugin/nerdtree_*.lua ftplugin/nerdtree/*.lua"
+not found in 'runtimepath': "indent/nerdtree.vim"
+not found in 'packpath': "pack/*/start/*/indent/nerdtree.vim"
+not found in 'packpath': "start/*/indent/nerdtree.vim"
+not found in 'runtimepath': "indent/nerdtree.lua"
+not found in 'packpath': "pack/*/start/*/indent/nerdtree.lua"
+not found in 'packpath': "start/*/indent/nerdtree.lua"
+
+14 行 追加しました
+
+
+Writing ShaDa file "/home/gusa1120/.local/share/nvim/shada/main.shada"
