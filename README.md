@@ -19,25 +19,48 @@
 # vim plugin
 
 ```
-'kassio/neoterm'
-'scrooloose/nerdtree'
-'fholgado/minibufexpl.vim'
-'junegunn/fzf', { 'do': { -> fzf#install() } }
-'junegunn/fzf.vim'
-'reireias/vim-cheatsheet'
+
+[[plugins]]
+repo = 'kassio/neoterm'
+
+[[plugins]]
+repo  = 'scrooloose/nerdtree'
+
+[[plugins]]
+repo  =  'fholgado/minibufexpl.vim'
+
+[[plugins]]
+repo  =  'leafgarland/typescript-vim'
+
+[[plugins]]
+repo  =  'skanehira/preview-markdown.vim'
+
+[[plugins]]
+repo  =  'xolox/vim-session'
+depends = ['xolox/vim-misc']
+
+[[plugins]]
+repo  =  'xolox/vim-misc'
+
 
 ```
 
-# Plugin fzf
+
+# Help
 
 ```
-  :Files
-```
-
-# Plugin cheatsheet
+  :H1
+  :H2
 
 ```
-  :Cheat
+
+# session
+
+```
+  :Ssv           //save session
+  :Sop           //open session
+  :Svi           //vieq session
+
 ```
 
 # termnal 
@@ -61,6 +84,22 @@
  :Tclose
  :Tclear
 
+
+```
+
+# fzf
+
+```
+  :Files
+  :History
+  :Buffers
+
+```
+
+# markdown
+
+```
+  :PreviewMarkdown [left|top|right|bottom|tab]
 
 ```
 
